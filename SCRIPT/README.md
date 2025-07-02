@@ -64,7 +64,7 @@ switch (nota) {
 }
 ```
 
-📂 **Ejercicio relacionados:** [01.js](./P-Basicos-01/01-condicionales.js) // [01-2.js](./P-Basicos-01/01-2.condicionales.js)
+📂 **Ejercicio relacionados:** [01.js](./P-Basicos-01/01-2.condicionales.js) // [01-2.js](./P-Basicos-01/01-condicionales.js)
 
 ---
 
